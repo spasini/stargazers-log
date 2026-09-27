@@ -1,0 +1,37 @@
+[
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code, a lightweight but powerful source code editor.",
+    "language": "TypeScript",
+    "stars": 234000,
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "name": "facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "stars": 228000,
+    "url": "https://github.com/facebook/react"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React Framework for the Web.",
+    "language": "JavaScript",
+    "stars": 132000,
+    "url": "https://github.com/vercel/next.js"
+  },
+  {
+    "name": "tensorflow/tensorflow",
+    "description": "An end-to-end open source machine learning platform.",
+    "language": "C++",
+    "stars": 190000,
+    "url": "https://github.com/tensorflow/tensorflow"
+  },
+  {
+    "name": "tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapidly building custom designs.",
+    "language": "CSS",
+    "stars": 89000,
+    "url": "https://github.com/tailwindlabs/tailwindcss"
+  }
+]
